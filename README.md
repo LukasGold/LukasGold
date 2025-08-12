@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile!  
-This space is primarily used for work-related projects. For my personal and hobby projects, please visit [LukasOro](https://github.com/LukasGold).
+Welcome to my GitHub profile, primarily for work-related projects. For my personal projects, please visit [LukasOro](https://github.com/LukasGold).
 
-I'm **Lukas Gold**, a self-taught programmer, scientist, and advocate for **FAIR data** principles. My coding journey began in 2016 with Python and MATLAB, supporting my research in digital signal processing and the analysis of large experimental datasets during my PhD. My doctoral work focused on **ultrasound-aided state estimation of lithium-ion batteries** and **monitoring their production processes**.
+I'm **Lukas Gold**, a self-taught programmer, scientist, and advocate for [**FAIR data** principles](https://www.go-fair.org/fair-principles/). My coding journey began in 2016 with **Python** and MATLAB, supporting my research with digital signal processing, the analysis of large experimental datasets and some modelling during my PhD. My doctoral work focused on [**ultrasound-aided state estimation of lithium-ion batteries**](https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/30618) and [**monitoring their production processes**](https://onlinelibrary.wiley.com/doi/10.1002/ente.202200861). Please refere to my [ORCID](https://orcid.org/0000-0001-7444-2969) for scientific publications.
 
-Currently, I work as a **Senior Scientist** in the **Department for Digital Transformation** at **Fraunhofer ISC**, where I specialize in automating analytical data processing and designing data infrastructures that enable sustainable and reproducible scientific workflows.
+Currently, I work as a **Senior Scientist** in the [**Department for Digital Transformation**](https://www.isc.fraunhofer.de/en/fields-of-activity/applications/digital-transformation.html) at [**Fraunhofer ISC**](https://www.isc.fraunhofer.de/en.html), where I specialize in automating analytical data processing and designing data infrastructures that enable sustainable and reproducible scientific workflows.
 
 ## Vision & Mission 🌐
 
@@ -15,7 +14,9 @@ Semantic technologies — around since the 1990s — offer powerful solutions to
 
 With the rise of **Large Language Models (LLMs)**, we now have tools that can simplify semantic annotation and contextualization during data entry. This opens the door to broader adoption and more intuitive data management.
 
-I envision a future where we realize the concept of a **"Web of Doing Things"** — a dynamic, interoperable ecosystem of scientific data and tools. My goal is to contribute by developing **practical tools and concepts** that bridge the gap between advanced IT solutions and everyday scientific practice.
+I envision a future where we realize the concept of the [**Semantic Web**](https://www.w3.org/2001/sw/) / **"Web of Doing Things"** — a dynamic, interoperable ecosystem of scientific data and tools. My goal is to contribute by developing **practical tools and concepts** that bridge the gap between advanced IT solutions and everyday scientific practice. 
+
+**Battery science and analytics provide an ideal starting point**, as they involve **repetitive, well-structured processes** and **complex process chains** rich in metadata. These characteristics make them especially suitable for demonstrating the value of semantic technologies and FAIR data practices in real-world scientific workflows.
 
 ##  Recent Projects 🔬🚧
 
@@ -30,4 +31,3 @@ I envision a future where we realize the concept of a **"Web of Doing Things"** 
 
 - [**OpenBattTools**](https://github.com/OpenBattTools)  
   A modular toolkit for **electrochemical testing and analysis of batteries**. It aims to establish an **open-source pipeline** for battery data—from test planning and data acquisition to analysis and FAIR-compliant data sharing.
-
