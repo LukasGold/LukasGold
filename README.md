@@ -8,7 +8,7 @@ Currently, I work as a **Senior Scientist** in the [**Department for Digital Tra
 
 ## Vision & Mission 🌐
 
-I want to contribute to the **transformation of how scientific organizations acquire, transfer, and preserve metadata, experimental data, and knowledge**.
+I’m committed to contributing to the ongoing transformation in how scientific organizations **acquire, exchange, and preserve metadata, experimental data, and institutional knowledge** — supporting a broader vision of building more interoperable, sustainable, and intelligent data infrastructures that benefit both the scientific community and society at large.
 
 Semantic technologies — around since the 1990s — offer powerful solutions to challenges like data heterogeneity and machine readability. However, their complexity has limited their adoption to large-scale applications, leaving everyday scientific data handling behind.
 
