@@ -8,13 +8,13 @@ Currently, I work as a **Senior Scientist** in the [**Department for Digital Tra
 
 ## Vision & Mission 🌐
 
-My mission is to **transform how scientific organizations acquire, transfer, and preserve metadata, experimental data, and knowledge**.
+I want to contribute to the **transformation of how scientific organizations acquire, transfer, and preserve metadata, experimental data, and knowledge**.
 
 Semantic technologies — around since the 1990s — offer powerful solutions to challenges like data heterogeneity and machine readability. However, their complexity has limited their adoption to large-scale applications, leaving everyday scientific data handling behind.
 
 With the rise of **Large Language Models (LLMs)**, we now have tools that can simplify semantic annotation and contextualization during data entry. This opens the door to broader adoption and more intuitive data management.
 
-I envision a future where we realize the concept of the [**Semantic Web**](https://www.w3.org/2001/sw/) / **"Web of Doing Things"** — a dynamic, interoperable ecosystem of scientific data and tools. My goal is to contribute by developing **practical tools and concepts** that bridge the gap between advanced IT solutions and everyday scientific practice. 
+I'm inspired by the vision of a future where the concept of the [**Semantic Web**](https://www.w3.org/2001/sw/) / **"Web of Doing Things"** becomes a reality — a dynamic, interoperable ecosystem of scientific data and tools. My goal is to contribute by developing **practical tools and concepts** that bridge the gap between advanced IT solutions and everyday scientific practice. 
 
 **Battery science and analytics provide an ideal starting point**, as they involve **repetitive, well-structured processes** and **complex process chains** rich in metadata. These characteristics make them especially suitable for demonstrating the value of semantic technologies and FAIR data practices in real-world scientific workflows.
 
