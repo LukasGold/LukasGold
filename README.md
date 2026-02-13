@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile, primarily for work-related projects. For my personal projects, please visit [LukasOro](https://github.com/LukasGold).
+Welcome to my GitHub profile, primarily for work-related projects. For my personal projects, please visit [LukasOro](https://github.com/LukasOro).
 
 I'm **Lukas Gold**, a self-taught programmer, scientist, and advocate for [**FAIR data** principles](https://www.go-fair.org/fair-principles/). My coding journey began in 2016 with **Python** and MATLAB, supporting my research with digital signal processing, the analysis of large experimental datasets and some modelling during my PhD. My doctoral work focused on [**ultrasound-aided state estimation of lithium-ion batteries**](https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/30618) and [**monitoring their production processes**](https://onlinelibrary.wiley.com/doi/10.1002/ente.202200861). Please refere to my [ORCID](https://orcid.org/0000-0001-7444-2969) for scientific publications.
 
